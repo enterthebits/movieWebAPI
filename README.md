@@ -8,4 +8,10 @@ A API to TMDb fornece apenas dados de 20 filmes por requisição. Para tanto, af
 
 Para que se tenha maior clareza do gênero, as IDs recebidas são convertidas nos textos equivalentes, da requisição de gêneros na TMDb.
 
+A camada de conexão não foi criada individualmente, de modo que a utilização de rede está implementada junto como modelo.
+
+A resposta da API é um JSON puro, ao invés de uma response com os códigos de http status.
+
+Havendo oportunidade de mais tempo para refatoração, proponho-me a completar o desafio com solução mais adequada.
+
 Agradeço a oportunidade de avaliação.
