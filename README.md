@@ -1,5 +1,7 @@
 # MovieWebAPI
 
+Após rodar, acessar em {API}/Movies
+
 Esta API fornece dados sobre os próximos filmes que serão lançados.
 
 Foi utilizado a biblioteca externa NewtonSoft para serialização e deserialização dos dados no formato JSON
